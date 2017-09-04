@@ -1,0 +1,17 @@
+﻿  FYP_Odon_Flanagan.cpp
+FYP_Odon_Flanagan.cpp(39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+FYP_Odon_Flanagan.cpp(40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+FYP_Odon_Flanagan.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+FYP_Odon_Flanagan.cpp(84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+FYP_Odon_Flanagan.cpp(163): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+FYP_Odon_Flanagan.cpp(176): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+FYP_Odon_Flanagan.cpp(177): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+FYP_Odon_Flanagan.cpp(185): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+FYP_Odon_Flanagan.cpp(186): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 389 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FYP_Odon_Flanagan.vcxproj -> C:\Users\ECO\Desktop\3d\FYP_Odon_Flanagan\Release\FYP_Odon_Flanagan.exe
+  FYP_Odon_Flanagan.vcxproj -> C:\Users\ECO\Desktop\3d\FYP_Odon_Flanagan\Release\FYP_Odon_Flanagan.pdb (Full PDB)
